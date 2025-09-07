@@ -27,7 +27,7 @@ function About() {
         </div>
         <div className="about-photo">
 
-          <div className="photo-placeholder"><img src="/images/proPic.jpg" alt="My photo" /></div>
+          <div className="photo-placeholder"><img src="..images/proPic.jpg" alt="My photo" /></div>
         </div>
       </div>
     </section>
