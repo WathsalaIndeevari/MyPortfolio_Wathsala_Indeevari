@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/MyPortfolio_Wathsala_Indeevari/static/css/main.1bf7f9ab.css",
-    "main.js": "/MyPortfolio_Wathsala_Indeevari/static/js/main.1dd8b71e.js",
+    "main.css": "/MyPortfolio_Wathsala_Indeevari/static/css/main.c77e4bb8.css",
+    "main.js": "/MyPortfolio_Wathsala_Indeevari/static/js/main.4a4fec33.js",
     "static/js/453.4280ab34.chunk.js": "/MyPortfolio_Wathsala_Indeevari/static/js/453.4280ab34.chunk.js",
+    "static/media/project2.png": "/MyPortfolio_Wathsala_Indeevari/static/media/project2.b831fcbd139c7dad9d73.png",
+    "static/media/proPic.jpg": "/MyPortfolio_Wathsala_Indeevari/static/media/proPic.a335433dfc96bbe23242.jpg",
+    "static/media/project3.jpeg": "/MyPortfolio_Wathsala_Indeevari/static/media/project3.7ebf4b4220ea2d80bfc5.jpeg",
+    "static/media/github.png": "/MyPortfolio_Wathsala_Indeevari/static/media/github.3ec1206f03c57fd9ddef.png",
+    "static/media/Project1.jpeg": "/MyPortfolio_Wathsala_Indeevari/static/media/Project1.9ebbb2e0300acac71091.jpeg",
     "index.html": "/MyPortfolio_Wathsala_Indeevari/index.html",
-    "main.1bf7f9ab.css.map": "/MyPortfolio_Wathsala_Indeevari/static/css/main.1bf7f9ab.css.map",
-    "main.1dd8b71e.js.map": "/MyPortfolio_Wathsala_Indeevari/static/js/main.1dd8b71e.js.map",
+    "main.c77e4bb8.css.map": "/MyPortfolio_Wathsala_Indeevari/static/css/main.c77e4bb8.css.map",
+    "main.4a4fec33.js.map": "/MyPortfolio_Wathsala_Indeevari/static/js/main.4a4fec33.js.map",
     "453.4280ab34.chunk.js.map": "/MyPortfolio_Wathsala_Indeevari/static/js/453.4280ab34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bf7f9ab.css",
-    "static/js/main.1dd8b71e.js"
+    "static/css/main.c77e4bb8.css",
+    "static/js/main.4a4fec33.js"
   ]
 }
