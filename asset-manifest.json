@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio_Wathsala_Indeevari/static/css/main.1bf7f9ab.css",
+    "main.js": "/MyPortfolio_Wathsala_Indeevari/static/js/main.55899856.js",
+    "static/js/453.4280ab34.chunk.js": "/MyPortfolio_Wathsala_Indeevari/static/js/453.4280ab34.chunk.js",
+    "index.html": "/MyPortfolio_Wathsala_Indeevari/index.html",
+    "main.1bf7f9ab.css.map": "/MyPortfolio_Wathsala_Indeevari/static/css/main.1bf7f9ab.css.map",
+    "main.55899856.js.map": "/MyPortfolio_Wathsala_Indeevari/static/js/main.55899856.js.map",
+    "453.4280ab34.chunk.js.map": "/MyPortfolio_Wathsala_Indeevari/static/js/453.4280ab34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf7f9ab.css",
+    "static/js/main.55899856.js"
+  ]
+}
