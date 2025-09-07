@@ -1,4 +1,5 @@
 import React from "react";
+import proPicIcon from '../assets/proPic.jpg';
 
 function About() {
   return (
@@ -27,7 +28,7 @@ function About() {
         </div>
         <div className="about-photo">
 
-          <div className="photo-placeholder"><img src="..images/proPic.jpg" alt="My photo" /></div>
+          <div className="photo-placeholder"><img src={proPicIcon} alt="Wathsala Indeevari" /></div>
         </div>
       </div>
     </section>

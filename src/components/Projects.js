@@ -1,4 +1,7 @@
 import React from "react";
+import project1Icon from '../assets/Project1.jpeg';
+import project2Icon from '../assets/project2.png';
+import project3Icon from '../assets/project3.jpeg';
 
 function Projects() {
   return (
@@ -6,7 +9,7 @@ function Projects() {
       <h2>Projects</h2>
       <div className="project-list">
         <div className="project-card">
-          <img src="/images/project1.jpeg" alt="Portfolio Website" />
+          <img src={project1Icon} alt="Portfolio Website" />
           <h3>Portfolio Website</h3>
           <p>
             A personal portfolio showcasing my skills, projects, and contact
@@ -15,7 +18,7 @@ function Projects() {
           </p>
         </div>
         <div className="project-card">
-          <img src="/images/project2.png" alt="Bookstore Website" />
+          <img src={project2Icon} alt="Bookstore Website" />
           <h3>Bookstore Website</h3>
           <p>
             A fully responsive bookstore website developed using HTML, 
@@ -25,7 +28,7 @@ function Projects() {
           </p>
         </div>
         <div className="project-card">
-          <img src="/images/project3.jpeg" alt="Desktop App" />
+          <img src={project3Icon} alt="Desktop App" />
           <h3>Desktop App</h3>
           <p>
             A C# desktop application built in Visual Studio with SQL Server Management Studio (SSMS) 
