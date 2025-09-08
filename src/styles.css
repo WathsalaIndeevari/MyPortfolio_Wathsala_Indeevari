@@ -168,7 +168,7 @@ html{
   bottom: -2px;
   border-radius: 30px;
   padding: 2px;
-  background: linear-gradient(135deg, #00e6ff, #7f00ff, #ff00ff, #00e6ff);
+  background: linear-gradient(135deg, #0f2027, #1c2d38, #203a43, #0f2027);
   background-size: 300% 300%;
   animation: galaxyGlow 6s linear infinite;
   -webkit-mask: 
@@ -177,6 +177,7 @@ html{
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
   pointer-events: none;
+  z-index: -1;
 }
 
 @keyframes galaxyGlow {
@@ -235,7 +236,7 @@ html{
   border-radius: 25px;
   font-weight: bold;
   cursor: pointer;
-  background: linear-gradient(45deg, #00e6ff, #7f00ff, #ff00ff, #00e6ff);
+  background: linear-gradient(45deg, #1a2980, #3b5998, #00bcd4, #00bcd4);
   background-size: 300% 300%;
   animation: galaxyGlow 6s linear infinite;
   color: white;
